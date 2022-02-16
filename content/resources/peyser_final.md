@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/476b8a93bb5351785cd956463fe66f0a_peyser_final.pdf
+file: /media/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/476b8a93bb5351785cd956463fe66f0a_peyser_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: peyser_final.pdf
 uid: 476b8a93-bb53-5178-5cd9-56463fe66f0a
