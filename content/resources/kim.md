@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f0aa8bd2-0059-1e49-d352-f8fa8f65ea51
 resourcetype: Document
 title: kim.pdf
 uid: 666e2d83-efc6-f2dc-c0fd-6c46f1e34e6d

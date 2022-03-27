@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f0aa8bd2-0059-1e49-d352-f8fa8f65ea51
 resourcetype: Document
 title: peyser_final.pdf
 uid: 476b8a93-bb53-5178-5cd9-56463fe66f0a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2566217-eb28-19ae-2d85-8ab367d87fcc
 resourcetype: Document
 title: lynnscarletttalk.pdf
 uid: 42263e7b-2d4e-0e0f-cdbb-b8b94f8f3d7a

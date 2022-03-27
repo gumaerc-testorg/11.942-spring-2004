@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2566217-eb28-19ae-2d85-8ab367d87fcc
 resourcetype: Document
 title: turner.pdf
 uid: 68ddfaa2-4bb9-512f-d351-95adce917c4a

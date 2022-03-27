@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f0aa8bd2-0059-1e49-d352-f8fa8f65ea51
 resourcetype: Document
 title: glickel_final.pdf
 uid: 5ba0a5ae-64c3-0083-7413-c83acf72f3df
