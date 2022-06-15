@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/68ddfaa24bb9512fd35195adce917c4a_turner.pdf
+file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/68ddfaa24bb9512fd35195adce917c4a_turner.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
