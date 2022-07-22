@@ -5,6 +5,7 @@ file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: peyser_final.pdf
 uid: 476b8a93-bb53-5178-5cd9-56463fe66f0a
 ---
 Example of student work from the course.
-

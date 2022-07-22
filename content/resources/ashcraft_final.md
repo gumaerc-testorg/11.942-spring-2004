@@ -5,6 +5,7 @@ file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disp
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ashcraft_final.pdf
 uid: b153199e-b9e0-145e-7a1e-8c88c197c901
 ---
 Example of student work from the course.
-
