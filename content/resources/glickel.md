@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/1edd1f6d028053ae93e7b40989219996_glickel.pdf
+file: /ol-ocw-studio-app/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/1edd1f6d028053ae93e7b40989219996_glickel.pdf
 file_size: 201512
 file_type: application/pdf
 learning_resource_types:
