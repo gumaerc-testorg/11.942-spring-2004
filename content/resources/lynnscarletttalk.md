@@ -2,7 +2,7 @@
 content_type: resource
 description: A lecture presented to U.S. Geological Survey by P. Lynn Scarlett, Assistant
   Secretary for Policy, Management and Budget. Used with permission.
-file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/42263e7b2d4e0e0fcdbbb8b94f8f3d7a_lynnscarletttalk.pdf
+file: /ol-ocw-studio-app/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/42263e7b2d4e0e0fcdbbb8b94f8f3d7a_lynnscarletttalk.pdf
 file_size: 42448
 file_type: application/pdf
 learning_resource_types:
