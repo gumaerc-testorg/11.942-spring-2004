@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation given by Stan Ponce, Representative of the Secretary
   of the Interior and Agriculture. Used with permission.
-file: /ol-ocw-studio-app/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/baac6947cc3018edf9c59153dc234a56_ponce.pdf
+file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/baac6947cc3018edf9c59153dc234a56_ponce.pdf
 file_size: 747563
 file_type: application/pdf
 learning_resource_types:
