@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/3588ed64746877ef21fe291f8d1ac848_mostashari_final.pdf
+file: /ol-ocw-studio-app/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/3588ed64746877ef21fe291f8d1ac848_mostashari_final.pdf
 file_size: 227292
 file_type: application/pdf
 learning_resource_types:
