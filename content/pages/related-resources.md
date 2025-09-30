@@ -9,10 +9,10 @@ uid: d7da1883-48c6-fe9d-5928-684555152008
 
 The following links lead to useful web sites for this course.
 
-[Cape Wind](https://www.power-technology.com/projects/cape-wind-project-massachusetts/)
+{{% resource_link "34b55832-33da-43f7-9220-b3d19c874e16" "Cape Wind" %}}
 
-[Cape Wind Materials](http://www.nae.usace.army.mil/)
+{{% resource_link "55bfb0b9-13f9-47d4-b2ee-2bfff7ab45e8" "Cape Wind Materials" %}}
 
-[Modernizing NEPA Report](https://obamawhitehouse.archives.gov/administration/eop/ceq/initiatives/nepa)
+{{% resource_link "1002e6aa-d7e2-4e1e-9b33-94647136b96c" "Modernizing NEPA Report" %}}
 
-[Integrating Citizens in Adaptive Management: A Propositional Analysis](http://www.ecologyandsociety.org/vol3/iss1/art9/)
+{{% resource_link "57af9690-40b0-4196-ad04-b7073a26354b" "Integrating Citizens in Adaptive Management: A Propositional Analysis" %}}
